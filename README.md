@@ -62,7 +62,8 @@ df.describe()
 ```
 df
 ```
-![Uploading Screenshot 2024-09-05 213932.png…]()
+![Screenshot 2024-09-05 213932](https://github.com/user-attachments/assets/7e6e4256-55ac-41f2-8713-d195c1fd5649)
+
 ```
 df.nunique()
 ```
